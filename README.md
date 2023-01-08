@@ -2,7 +2,7 @@
 
 ## I'm a senior graphic designer that moved into <br/> freelance/contract web development & design
 
-- ⚡ I'm combining reliable and fast web tech with cool looks that sell.
+- ⚡ I'm combining reliable and fast web technology with cool looks that sell.
 - ⚡ Please check out my [website]!
 - ⚡ I can design and code a nice UI for any open source project that needs one, just hook me up!
 
@@ -26,5 +26,4 @@
 <br />
 
 [website]: https://digitaldan.netlify.app/
-[twitter]: https://twitter.com/danielhdev
-[linkedin]: https://www.linkedin.com/in/daniel-huebschmann-digital-dan-175b66236/cQ0
+
