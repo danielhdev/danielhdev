@@ -3,7 +3,7 @@
 ## I'm a senior graphic designer that moved into freelance/contract web development & design
 
 - ⚡ I'm combining reliable and fast web tech with cool looks that sell.
-- ⚡ Check out my website [website]!
+- ⚡ Please Check out my [website]!
 - ⚡ I can design and code a nice UI for any open source project that needs one, just hook me up!
 
 ### Connect with me:
