@@ -5,7 +5,6 @@
 - ⚡ Combining fast web technologies with cool looks that sell.
 - ⚡ Please check out my [website]!
 - ⚡ Trying to improve my UI & interactive animation skills with every project.
-- ⚡ Helping out developers with their portfolio designs.
 - ⚡ Ask me about CSS/ Tailwind CSS.
 - ⚡ <b>I can design and code a nice UI for any open source project that needs one, just hook me up!</b>
 
