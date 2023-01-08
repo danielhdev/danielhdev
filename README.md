@@ -1,15 +1,15 @@
 # Hello, I'm Daniel - aka digital.dan & danielhdev 👋
 
-## I'm a senior graphic designer that moved into freelance/contract web development & design
+## I'm a senior graphic designer that moved into <br/> freelance/contract web development & design
 
 - ⚡ I'm combining reliable and fast web tech with cool looks that sell.
-- ⚡ Please Check out my [website]!
+- ⚡ Please check out my [website]!
 - ⚡ I can design and code a nice UI for any open source project that needs one, just hook me up!
 
 ### Connect with me:
 
-https://twitter.com/danielhdev
-https://www.linkedin.com/in/daniel-huebschmann-digital-dan-175b66236/
+<a href="https://twitter.com/danielhdev">Twitter</a>
+<a href="https://www.linkedin.com/in/daniel-huebschmann-digital-dan-175b66236/">LinkedIn</a>
 
 ### Languages and Tools:
 
