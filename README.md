@@ -2,7 +2,7 @@
 
 ## I'm a senior graphic designer that moved into <br/> freelance/contract web development & design
 
-- ⚡ I'm combining reliable and fast web technology with cool looks that sell.
+- ⚡ Combining fast web technologies with cool looks that sell.
 - ⚡ Please check out my [website]!
 - ⚡ I can design and code a nice UI for any open source project that needs one, just hook me up!
 
