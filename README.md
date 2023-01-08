@@ -6,7 +6,7 @@
 - ⚡ Please check out my [website]!
 - ⚡ Trying to improve my UI animation skills with every project.
 - ⚡ Ask me about CSS/ Tailwind CSS.
-- ⚡ <b>I can design and code UIs and GUIs for open source projects, just hook me up!</b>
+- ⚡ <b>I can design and code UIs for open source projects, just hook me up!</b>
 
 ### Connect with me:
 
