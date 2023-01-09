@@ -2,7 +2,6 @@
 
 ## I'm a senior graphic designer that moved into <br/> freelance/contract web development & design
 
-- ⚡ Combining fast web technologies with cool looks that sell.
 - ⚡ Please check out my [website]!
 - ⚡ Trying to improve my UI animation skills with every project.
 - ⚡ Learning TypeScript next.
