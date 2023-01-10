@@ -1,6 +1,6 @@
 # Hello, I'm Daniel - aka digital.dan & danielhdev 👋
 
-## I'm a senior graphic designer that moved into <br/> freelance/contract web development & design
+## I'm a senior graphic designer that moved into <br/> web development & design
 
 - ⚡ Please check out my [website]!
 - ⚡ Trying to improve my UI animation skills with every project.
