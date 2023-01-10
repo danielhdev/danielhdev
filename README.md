@@ -4,7 +4,7 @@
 
 - ⚡ Please check out my [website]!
 - ⚡ Trying to improve my UI animation skills with every project.
-- ⚡ Learning TypeScript next.
+- ⚡ Learning Angular & TypeScript next.
 - ⚡ Ask me about CSS/ Tailwind CSS.
 - ⚡ <b>I can design and code UIs for open source projects, just hook me up!</b>
 
