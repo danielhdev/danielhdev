@@ -1,6 +1,6 @@
 # Hello, I'm Daniel - aka digital.dan & danielhdev 👋
 
-## I'm a senior graphic designer that moved into <br/> (serverless) fullstack web development & UX/UI design
+## I'm a senior graphic designer that moved into <br/> serverless fullstack web development
 
 - ⚡ Please check out my [website]!
 - ⚡ Trying to improve my UI animation skills with every project.
