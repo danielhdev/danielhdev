@@ -2,10 +2,10 @@
 
 ## I'm a senior graphic designer that moved into <br/> web development & UX/UI design
 
-- ⚡ <b>I can design and code UIs for open source projects, just hook me up!</b>
+- 💬 <b>I can design and code UIs for open source projects, just hook me up!</b>
 - ⚡ Trying to improve my UI animation skills with every project.
 - ⚡ Learning Angular & TypeScript next.
-- ⚡ Ask me about CSS/ Tailwind CSS and UI design.
+- 💬 Ask me about CSS/ Tailwind CSS and UI design.
 - ⚡ Please check out my [website]
 
 ### Connect with me:
