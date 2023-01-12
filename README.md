@@ -1,6 +1,6 @@
 # Hello, I'm Daniel - aka digital.dan & danielhdev 👋
 
-## I'm a senior graphic designer that moved into <br/> web development & UX/UI design
+## I'm a senior graphic designer and added <br/> web development & UX/UI design to my skillset 
 
 - 💬 <b>I can design and code UIs for open source projects, just hook me up!</b>
 - ⚡ Trying to improve my UI animation skills with every project.
