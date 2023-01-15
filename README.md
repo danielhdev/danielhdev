@@ -1,16 +1,16 @@
-# Hello, I'm Daniel - aka digital.dan & danielhdev 👋
+# Hello, I'm Daniel - aka digital.dan 👋
 
-## I'm a senior graphic designer and added <br/> web development & UX/UI design to my skillset 
+## I'm a senior digital designer and added <br/> web development to my skillset. 
 
-- 💬 <b>I can design and code UIs for open source projects, just hook me up!</b>
-- ⚡ Trying to improve my UI animation skills with every project.
-- ⚡ Learning Angular & TypeScript next.
-- 💬 Ask me about CSS/ Tailwind CSS and UI design.
+- 💬 <b>I can design for open source projects, just hook me up!</b>
+- ⚡ Writing mockups with frontend frameworks is fun!
+- ⚡ Learning Angular & Vue basics next.
+- 💬 Ask me about design.
 - ⚡ Please check out my [website]
 
 ### Connect with me:
 
-<a href="https://twitter.com/danielhdev">Twitter</a>
+<a href="https://twitter.com/digitaldan_de">Twitter</a>
 <a href="https://www.linkedin.com/in/daniel-huebschmann-digital-dan-175b66236/">LinkedIn</a>
 
 ### Languages and Tools:
@@ -21,8 +21,6 @@
 <img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:20px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:20px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:20px;" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:20px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br />
