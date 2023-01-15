@@ -3,7 +3,7 @@
 ## I'm a senior digital designer and added <br/> web development to my skillset. 
 
 - 💬 <b>I can design for open source projects, just hook me up!</b>
-- ⚡ Writing mockups with frontend frameworks is fun!
+- ⚡ Writing design mockups with frontend frameworks.
 - ⚡ Learning Angular & Vue basics next.
 - 💬 Ask me about design.
 - ⚡ Please check out my [website]
