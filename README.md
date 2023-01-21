@@ -1,11 +1,10 @@
 # Hello, I'm Daniel - aka digital.dan 👋
 
-## I'm a senior digital designer and added <br/> web development to my skillset. 
+## I'm a senior digital designer branching out to <br/> web development 
 
-- 💬 <b>I can design for open source projects, just hook me up!</b>
-- ⚡ Writing design mockups with frontend frameworks.
-- ⚡ Learning Angular & Vue basics next.
-- 💬 Ask me about design.
+- 💬 <b>I can design and develop UIs for open source projects, just hook me up!</b>
+- ⚡ Learning Angular & TS basics next.
+- 💬 Ask me about design, CSS, Tailwind.
 - ⚡ Please check out my [website]
 
 ### Connect with me:
