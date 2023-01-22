@@ -1,6 +1,6 @@
 # Hello, I'm Daniel - aka digital.dan 👋
 
-## I'm a senior digital designer branching out to <br/> web development 
+## I'm a senior web designer adding <br/> web development (like almost all web designer do nowadays)
 
 - 💬 <b>I can design and develop UIs for open source projects, just hook me up!</b>
 - ⚡ Learning Angular & TS basics next.
