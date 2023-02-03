@@ -4,7 +4,7 @@
 
 - 💬 <b>I can design and develop UIs for open source projects, just hook me up!</b>
 - ⚡ Learning Angular & TS basics next.
-- 💬 Ask me about design, CSS, Tailwind.
+- 💬 Ask me about digital design, CSS, Tailwind.
 - ⚡ Please check out my [website]
 
 ### Connect with me:
