@@ -10,7 +10,7 @@
 ### Connect with me:
 
 <a href="https://twitter.com/digitaldan_de">Twitter</a>
-<a href="https://www.linkedin.com/in/daniel-huebschmann-digital-dan-175b66236/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/daniel-huebschmann-digital-dan-studio-175b66236/">LinkedIn</a>
 
 ### Languages and Tools:
 
